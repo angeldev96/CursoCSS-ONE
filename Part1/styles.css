@@ -1,8 +1,40 @@
 
 
-body{
-    background-color:#000;
-    font-family: 'Open Sans', sans-serif;
-    color: #fff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+body {
+    background: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
 }
